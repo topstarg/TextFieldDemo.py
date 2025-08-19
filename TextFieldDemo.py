@@ -1,6 +1,6 @@
 """
 Program: TextFieldDemo.py
-Chapter 9 GUI template file (page 227)
+GUI template file
 8/14/2025
 
 NOTE: the Python module breezypythongui.py must be in the same directory as this file for the app to run properly!
@@ -48,3 +48,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
